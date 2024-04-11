@@ -16,7 +16,6 @@
 - Origin - Indicates where a fetch originates from.
 - Referer - The address of the previous web page from which a link to the currently requested page was followed.
 - User-Agent - A characteristic string that lets servers and network peers identify the application, operating system, vendor, and/or version of the requesting user agent.**
-  
 
  **Response Headers:**
 
@@ -43,9 +42,7 @@
 
 **General Headers**
 
-
 **Entity Headers**
-
 
 **Application types**
 
