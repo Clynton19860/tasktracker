@@ -1,7 +1,7 @@
 export const EmployeeData = [2,4, 6, "Mitch", "Clynton", { name: "Clynton" }, [1, 2]] // length, pop, push, shift, map, filter
 const length = EmployeeData.length // 4
 // get the last item
-const latsInem = EmployeeData[length - 1] // "Clynton"
+const lastitem = EmployeeData[length - 1] // "Clynton"
 EmployeeData.pop() // remove the last item
 console.log(EmployeeData) // [2, 4, 6, "Mitch"]
 EmployeeData.push("Benon") // add a new item
